@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+#root > div > div.text-center.fs-2 > h1{
+    font-family: 'Amiri', serif !important;
+}
+
+#root > div > div.row > div> ul > li.list-group-item.active.text-center > h4{
+    font-family: 'Amiri', serif !important;
+margin: 1.2rem;
+}
+
+
+#root > div > div.row > div > ul > li.list-group-item.fw-bolder.text-center{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.5rem;
+}
+
+#root > div > div.row > div > ul > li.list-group-item.fw-bold.text-center{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.5rem;
+}
+
+.bg{
+    background: #072227;  /* fallback for old browsers */
+        color: #AEFEFF !important;
+
+}
+
+.bg2{
+    background: #35858B;
+        color: #AEFEFF !important;
+
+}
+
+
+*{
+}
+
+
+body{
+    background: #072227;  /* fallback for old browsers */
+
+
+}
+
+#root > div > div.row > div > ul > li.list-group-item.bg2.text-white.text-center > h4{
+    font-family: 'Amiri', serif !important;
+padding: 1rem;
+    margin: 0;
+}
